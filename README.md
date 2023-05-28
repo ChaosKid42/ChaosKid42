@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:badges-->
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/be2ee650-166c-4a10-8f0f-90876d9d4785 "CKAD: Certified Kubernetes Application Developer")
 <!--END_SECTION:badges-->
 
 <!--
